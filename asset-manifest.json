@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pluvas159.github.io/static/css/main.b049c77d.chunk.css",
-    "main.js": "/pluvas159.github.io/static/js/main.0fd51d9a.chunk.js",
-    "main.js.map": "/pluvas159.github.io/static/js/main.0fd51d9a.chunk.js.map",
-    "runtime-main.js": "/pluvas159.github.io/static/js/runtime-main.5077accd.js",
-    "runtime-main.js.map": "/pluvas159.github.io/static/js/runtime-main.5077accd.js.map",
-    "static/js/2.df78a3b1.chunk.js": "/pluvas159.github.io/static/js/2.df78a3b1.chunk.js",
-    "static/js/2.df78a3b1.chunk.js.map": "/pluvas159.github.io/static/js/2.df78a3b1.chunk.js.map",
-    "index.html": "/pluvas159.github.io/index.html",
-    "static/css/main.b049c77d.chunk.css.map": "/pluvas159.github.io/static/css/main.b049c77d.chunk.css.map",
-    "static/js/2.df78a3b1.chunk.js.LICENSE.txt": "/pluvas159.github.io/static/js/2.df78a3b1.chunk.js.LICENSE.txt"
+    "main.css": "/todo/static/css/main.b049c77d.chunk.css",
+    "main.js": "/todo/static/js/main.0fd51d9a.chunk.js",
+    "main.js.map": "/todo/static/js/main.0fd51d9a.chunk.js.map",
+    "runtime-main.js": "/todo/static/js/runtime-main.dcea05c6.js",
+    "runtime-main.js.map": "/todo/static/js/runtime-main.dcea05c6.js.map",
+    "static/js/2.df78a3b1.chunk.js": "/todo/static/js/2.df78a3b1.chunk.js",
+    "static/js/2.df78a3b1.chunk.js.map": "/todo/static/js/2.df78a3b1.chunk.js.map",
+    "index.html": "/todo/index.html",
+    "static/css/main.b049c77d.chunk.css.map": "/todo/static/css/main.b049c77d.chunk.css.map",
+    "static/js/2.df78a3b1.chunk.js.LICENSE.txt": "/todo/static/js/2.df78a3b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5077accd.js",
+    "static/js/runtime-main.dcea05c6.js",
     "static/js/2.df78a3b1.chunk.js",
     "static/css/main.b049c77d.chunk.css",
     "static/js/main.0fd51d9a.chunk.js"
